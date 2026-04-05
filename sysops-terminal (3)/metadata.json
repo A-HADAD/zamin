@@ -1,0 +1,5 @@
+{
+  "name": "SysOps Terminal",
+  "description": "A secure terminal interface for managing access codes and console locking.",
+  "requestFramePermissions": []
+}
